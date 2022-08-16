@@ -1,4 +1,4 @@
 # servilimp-www
+Código fuente de página web http://www.servilimp.cl
 
-
-repositoro para ser cargado mediante github action en Azure staticWebApp
+Repositorio para ser cargado en Azure staticWebApp mediante github Actions
